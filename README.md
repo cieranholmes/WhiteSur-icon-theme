@@ -1,6 +1,7 @@
 List of added/updated icons:
 - Floorp & alternative icon
 - Cohesion (same as notion)
+- Updated IntelliJ IDEA icon
 
 <img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> WhiteSur Icon Theme
 ======
